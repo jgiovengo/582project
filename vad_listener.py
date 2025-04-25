@@ -1,8 +1,8 @@
 import collections
-import webrtcvad
+import webrtcvad   #REQUIRES INSTALLATION
 import sys
 import wave
-import pyaudio
+import pyaudio     #REQUIRES INSTALLATION
 import os
 import time
 
