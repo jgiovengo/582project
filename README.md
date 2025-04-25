@@ -1,5 +1,5 @@
 # 582project
 Speech-to-Text Recognition Semester Project
 
-Independencies to be downloaded :
-install webrtcvad pyaudio SpeechRecognition
+Independencies to be installed :
+webrtcvad pyaudio SpeechRecognition
