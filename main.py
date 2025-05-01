@@ -4,11 +4,11 @@ import openai
 import datetime
 import pywhatkit
 import os
+
 from wake_word import listen_for_wake_word
 from stt import listen
 from intent_logic import handle_command
 from tts import speak
-
 
 
 #to be fixed ; not recommeended to add API keys on GITHUB
