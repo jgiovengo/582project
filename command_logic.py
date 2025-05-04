@@ -11,7 +11,7 @@ def recognize_command(command):
         now = datetime.datetime.now()
         return f"The current time is {now.strftime('%I:%M %p')}."
 
-    elif "joke" in command:
+    elif "tell me a joke" in command:
         jokes = [
             "Why don't scientists trust atoms? Because they make up everything!",
             "Why did the computer go to therapy? Because it had too many bytes!",
